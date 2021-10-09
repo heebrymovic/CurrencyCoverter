@@ -1,0 +1,8 @@
+[
+	{"name":"Guitar", "Price" : 30},
+
+	{"name":"Piano", "Price" :  2500},
+
+	{"name":"Striings", "Price" : 1500}
+
+]
